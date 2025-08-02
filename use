@@ -1,0 +1,21 @@
+1. Query OSINT intelligence in terminal style
+Example questions:
+
+IoCs "Qilin"?
+
+Top darknet forums?
+
+Latest ransomware variants in 2025?
+
+
+2. View full interaction history
+Option 2 in the menu: Shows all questions and their answers.
+
+3. Automatically save logs
+Each query is saved as an individual .txt file in chats/.
+
+
+
+They are also logged in conversation.csv for future analysis or visualization.
+
+📦 Install: pip install requests
