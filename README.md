@@ -28,7 +28,8 @@ use "intelask.py"
 
 🐍 Requiere: Python 3.7+
 
-<img width="1032" height="1831" alt="iocs" src="https://github.com/user-attachments/assets/70bf2d34-062f-4857-9b2a-0b13c0c6dac2" />
+
+<img width="1218" height="1307" alt="intel" src="https://github.com/user-attachments/assets/6a84157b-228d-4883-96a6-9ae40f0ed0cf" />
 
  
  NOTE: We do not own the emulated API in Python programming language, we found this AI available and have decided to share it.
